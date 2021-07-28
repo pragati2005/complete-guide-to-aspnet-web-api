@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bt0M4FuuaOHxV3bJ5fkMlfdmvcAvzvW0mXg2Rf1wLgD1vZdZXaZk60lIRJO/UsT25eAubgnEN9UwdD0f6fJDqw==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\Projects\\PracticeApi\\PracticeApi\\PracticeApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pragatisaxena\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\pragatisaxena\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pragatisaxena\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\pragatisaxena\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\pragatisaxena\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\pragatisaxena\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
